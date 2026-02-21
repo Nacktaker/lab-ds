@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+
+.dashboard-container {
+  display: flex;
+margin: 0 40px 0 40px ;
+
+}
+
+.curriculum-panel {
+  flex: 1;
+  padding-right: 20px;
+}
+
+
+svg{
+width: 1200px;
+margin: auto;
+align-items: center;
+display: block;
+margin-top: 2rem;
+}
+
